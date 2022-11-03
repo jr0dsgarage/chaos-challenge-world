@@ -15,4 +15,10 @@ Rules:
 - ☛ Once the 13 minute Counter Timer runs out you will be snapped into Spectator mode, and can take screenies of your attempt!  
 - ☛ Once you're ready to try again, switch to another gamemode using the [/gamemode](https://minecraft.fandom.com/wiki/Commands/gamemode) command in chat or use `F3+F4` to choose any other gamemode so that you can push the buttons.
 
+To download and Play this map:
+- ➸ Click on the [Releases](https://github.com/jr0dsgarage/challenge13/releases) link on the right, expand the Assets section of the latest release, and download the zip file.
+- ➸ Open the zip file and copy the contents to the /.minecraft/saves directory.  
+- ➸ The map should now be in the Singleplayer world list!
+- ➸ Start Map, Open Chest, Build Fast!
+
 Have fun, and please submit issues if you find them!
