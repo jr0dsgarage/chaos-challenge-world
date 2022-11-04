@@ -22,3 +22,4 @@ To download and Play this map:
 - ➸ Start Map, Open Chest, Build Fast!
 
 Have fun, and please submit issues if you find them!
+[Buy me a coffee!](https://www.buymeacoffee.com/j__r0d) if you enjoy this map!
