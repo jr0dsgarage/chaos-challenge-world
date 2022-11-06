@@ -9,7 +9,7 @@ Watch cub do this challenge: 👀 https://youtu.be/nSHNGmL7qJM?t=1254 👀
 ☞ 13 Minute Build Time Limit!  Build fast!  
 ☞ No pre-planning allowed!  Be spontaneous!  
 ## Gameplay
-![image](https://user-images.githubusercontent.com/19356109/200105149-28d16ee7-d784-4252-9d2e-3da38bd49a1c.png)  
+![image](https://user-images.githubusercontent.com/19356109/200151474-ec75575e-9d40-4d55-9ed7-5c24cfc005e2.png)
 ☛ Use the Control Panel wall to play the game!   
 ☛ Once you remove the supplied Items from the Chest, the chest will disappear, you will be magically teleported to the middle of the build area, and the 13-minute timer will start ticking down!  
 ☛ Once the 13 minute Counter Timer runs out you will be snapped into Spectator mode, and can take screenies of your attempt!  
