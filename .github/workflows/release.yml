@@ -34,6 +34,6 @@ jobs:
           # List of excluded files / directories
           exclusions: '.gitignore README.md LICENSE' # optional, default is 
           # List of excluded files / directories with recursive wildcards (only applies on Windows with `zip` type)
-          # recursive_exclusions: # optional, default is 
+          recursive_exclusions: '*.yml'# optional, default is 
           # Tool to use for archiving
           type: 'zip' # optional, default is zip
