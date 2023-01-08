@@ -1,4 +1,4 @@
-# Complete Chaos Challenge Map
+# Complete Chaos Challenge Map ![GitHub](https://img.shields.io/github/license/jr0dsgarage/chaos-challenge-world)
 A take on cubfan135's challenge to take a 13 stacks of specific blocks and build something in 13 minutes!
 
 Watch cub do this challenge: 👀 https://youtu.be/nSHNGmL7qJM?t=1254 👀 
